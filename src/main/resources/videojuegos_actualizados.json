@@ -1,0 +1,184 @@
+[ {
+  "title" : "The Witcher 3: Wild Hunt",
+  "platform" : {
+    "name" : "PlayStation 4",
+    "manufacturer" : "Sony"
+  },
+  "genre" : "RPG",
+  "developers" : [ {
+    "name" : "CD Projekt Red",
+    "country" : "Poland"
+  } ],
+  "releaseDate" : [ 2015, 5, 19 ],
+  "reviews" : [ {
+    "comment" : "Amazing game! One of the best RPGs ever.",
+    "date" : [ 2016, 6, 10 ],
+    "rating" : 5
+  }, {
+    "comment" : "Incredible world-building and story.",
+    "date" : [ 2016, 7, 25 ],
+    "rating" : 5
+  } ]
+}, {
+  "title" : "Halo Infinite",
+  "platform" : {
+    "name" : "Xbox Series X",
+    "manufacturer" : "Microsoft"
+  },
+  "genre" : "Shooter",
+  "developers" : [ {
+    "name" : "343 Industries",
+    "country" : "United States"
+  } ],
+  "releaseDate" : [ 2021, 12, 8 ],
+  "reviews" : [ {
+    "comment" : "Solid gameplay, but lacks content.",
+    "date" : [ 2021, 12, 10 ],
+    "rating" : 3
+  }, {
+    "comment" : "Multiplayer is great, but the campaign is short.",
+    "date" : [ 2022, 1, 15 ],
+    "rating" : 4
+  } ]
+}, {
+  "title" : "Red Dead Redemption 2",
+  "platform" : {
+    "name" : "PC",
+    "manufacturer" : "Rockstar Games"
+  },
+  "genre" : "Action-Adventure",
+  "developers" : [ {
+    "name" : "Rockstar North",
+    "country" : "United Kingdom"
+  }, {
+    "name" : "Rockstar San Diego",
+    "country" : "United States"
+  } ],
+  "releaseDate" : [ 2019, 11, 5 ],
+  "reviews" : [ {
+    "comment" : "A masterpiece in storytelling and graphics.",
+    "date" : [ 2019, 12, 20 ],
+    "rating" : 5
+  }, {
+    "comment" : "Slow start, but the depth of the game is unparalleled.",
+    "date" : [ 2020, 1, 10 ],
+    "rating" : 5
+  }, {
+    "comment" : "Too much realism in some mechanics, but overall an amazing experience.",
+    "date" : [ 2020, 2, 5 ],
+    "rating" : 4
+  } ]
+}, {
+  "title" : "The Legend of Zelda: Breath of the Wild",
+  "platform" : {
+    "name" : "Nintendo Switch",
+    "manufacturer" : "Nintendo"
+  },
+  "genre" : "Adventure",
+  "developers" : [ {
+    "name" : "Nintendo EPD",
+    "country" : "Japan"
+  } ],
+  "releaseDate" : [ 2017, 3, 3 ],
+  "reviews" : [ {
+    "comment" : "A groundbreaking open-world game.",
+    "date" : [ 2017, 4, 5 ],
+    "rating" : 5
+  }, {
+    "comment" : "Revolutionized how open-world games are designed.",
+    "date" : [ 2017, 6, 20 ],
+    "rating" : 5
+  }, {
+    "comment" : "A little overwhelming at first, but incredibly rewarding.",
+    "date" : [ 2018, 1, 10 ],
+    "rating" : 4
+  } ]
+}, {
+  "title" : "God of War",
+  "platform" : {
+    "name" : "PlayStation 4",
+    "manufacturer" : "Sony"
+  },
+  "genre" : "Action",
+  "developers" : [ {
+    "name" : "Santa Monica Studio",
+    "country" : "United States"
+  } ],
+  "releaseDate" : [ 2018, 4, 20 ],
+  "reviews" : [ {
+    "comment" : "An incredible father-son story with epic battles.",
+    "date" : [ 2018, 5, 1 ],
+    "rating" : 5
+  }, {
+    "comment" : "Beautiful visuals and emotionally engaging narrative.",
+    "date" : [ 2018, 6, 10 ],
+    "rating" : 5
+  }, {
+    "comment" : "Combat feels repetitive at times, but the story carries the game.",
+    "date" : [ 2019, 3, 15 ],
+    "rating" : 4
+  } ]
+}, {
+  "title" : "Minecraft",
+  "platform" : {
+    "name" : "PC",
+    "manufacturer" : "Mojang"
+  },
+  "genre" : "Sandbox",
+  "developers" : [ {
+    "name" : "Mojang Studios",
+    "country" : "Sweden"
+  } ],
+  "releaseDate" : [ 2011, 11, 18 ],
+  "reviews" : [ {
+    "comment" : "Endless creativity and fun for all ages.",
+    "date" : [ 2012, 1, 2 ],
+    "rating" : 5
+  }, {
+    "comment" : "A true sandbox masterpiece with infinite replay value.",
+    "date" : [ 2013, 5, 20 ],
+    "rating" : 5
+  } ]
+}, {
+  "title" : "Among Us",
+  "platform" : {
+    "name" : "PC",
+    "manufacturer" : "Innersloth"
+  },
+  "genre" : "Party",
+  "developers" : [ {
+    "name" : "Innersloth",
+    "country" : "United States"
+  } ],
+  "releaseDate" : [ 2018, 6, 15 ],
+  "reviews" : [ {
+    "comment" : "A fun multiplayer game to play with friends.",
+    "date" : [ 2020, 8, 30 ],
+    "rating" : 4
+  }, {
+    "comment" : "Simple concept, but highly addictive.",
+    "date" : [ 2020, 9, 10 ],
+    "rating" : 4
+  } ]
+}, {
+  "title" : "The Last of Us Part II",
+  "platform" : {
+    "name" : "PlayStation 5",
+    "manufacturer" : "Sony"
+  },
+  "genre" : "Action",
+  "developers" : [ {
+    "name" : "Naughty Dog",
+    "country" : "United States"
+  } ],
+  "releaseDate" : [ 2020, 6, 19 ],
+  "reviews" : [ {
+    "comment" : "Incredible visuals and story.",
+    "date" : [ 2022, 8, 5 ],
+    "rating" : 5
+  }, {
+    "comment" : "Best graphics ever!",
+    "date" : [ 2022, 9, 15 ],
+    "rating" : 5
+  } ]
+} ]

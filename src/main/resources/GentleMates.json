@@ -1,0 +1,1072 @@
+{
+  "id": 13404,
+  "name": "Gentle Mates",
+  "overview": {
+    "mapsPlayed": 44,
+    "totalKills": 3041,
+    "totalDeaths": 3058,
+    "roundsPlayed": 905,
+    "kdRatio": 0.99,
+    "wins": 23,
+    "draws": 0,
+    "losses": 21
+  },
+  "matches": [
+    {
+      "date": 1759615200000,
+      "event": {
+        "id": 8040,
+        "name": "ESL Pro League Season 22"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 209754,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1759615200000,
+      "event": {
+        "id": 8040,
+        "name": "ESL Pro League Season 22"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 4494,
+        "name": "MOUZ"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 209750,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1759528800000,
+      "event": {
+        "id": 8040,
+        "name": "ESL Pro League Season 22"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_train",
+      "mapStatsId": 209681,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1759528800000,
+      "event": {
+        "id": 8040,
+        "name": "ESL Pro League Season 22"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 9565,
+        "name": "Vitality"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 209670,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1759269600000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 209407,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    },
+    {
+      "date": 1759269600000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 12468,
+        "name": "Legacy"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 209400,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1759183200000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 209262,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1759183200000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 209255,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1759183200000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 13117,
+        "name": "Inner Circle"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 209244,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1759096800000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 209191,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1759096800000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 209185,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1759096800000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 5995,
+        "name": "G2"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 209180,
+      "result": {
+        "team1": 2,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1759010400000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 209103,
+      "result": {
+        "team1": 16,
+        "team2": 12
+      }
+    },
+    {
+      "date": 1759010400000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 209095,
+      "result": {
+        "team1": 7,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1759010400000,
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 7175,
+        "name": "HEROIC"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 209084,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1758924000000,
+      "event": {
+        "id": 8700,
+        "name": "Birch Cup 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 13459,
+        "name": "ex-Inner Circle"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 208861,
+      "result": {
+        "team1": 8,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1758319200000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 208327,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1758319200000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 208319,
+      "result": {
+        "team1": 3,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1758319200000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 11241,
+        "name": "B8"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 208311,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1758319200000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 208272,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1758319200000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 208269,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1758319200000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 12467,
+        "name": "PARIVISION"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 208263,
+      "result": {
+        "team1": 6,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1758232800000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 208183,
+      "result": {
+        "team1": 13,
+        "team2": 11
+      }
+    },
+    {
+      "date": 1758232800000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 208179,
+      "result": {
+        "team1": 13,
+        "team2": 6
+      }
+    },
+    {
+      "date": 1758146400000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_train",
+      "mapStatsId": 208106,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1758146400000,
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 12426,
+        "name": "Passion UA"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 208101,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1757800800000,
+      "event": {
+        "id": 8699,
+        "name": "Radio Popular Roman Imperium Cup II"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_train",
+      "mapStatsId": 207797,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1757800800000,
+      "event": {
+        "id": 8699,
+        "name": "Radio Popular Roman Imperium Cup II"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 207783,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1757800800000,
+      "event": {
+        "id": 8699,
+        "name": "Radio Popular Roman Imperium Cup II"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10567,
+        "name": "SAW"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 207772,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1757800800000,
+      "event": {
+        "id": 8699,
+        "name": "Radio Popular Roman Imperium Cup II"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 13443,
+        "name": "Rhyno YNG"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 207752,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1757800800000,
+      "event": {
+        "id": 8699,
+        "name": "Radio Popular Roman Imperium Cup II"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 13443,
+        "name": "Rhyno YNG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 207741,
+      "result": {
+        "team1": 13,
+        "team2": 5
+      }
+    },
+    {
+      "date": 1757800800000,
+      "event": {
+        "id": 8699,
+        "name": "Radio Popular Roman Imperium Cup II"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_overpass",
+      "mapStatsId": 207691,
+      "result": {
+        "team1": 13,
+        "team2": 9
+      }
+    },
+    {
+      "date": 1757800800000,
+      "event": {
+        "id": 8699,
+        "name": "Radio Popular Roman Imperium Cup II"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 12642,
+        "name": "Rebels"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 207685,
+      "result": {
+        "team1": 13,
+        "team2": 7
+      }
+    },
+    {
+      "date": 1756504800000,
+      "event": {
+        "id": 8635,
+        "name": "DraculaN Season 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 206286,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1756504800000,
+      "event": {
+        "id": 8635,
+        "name": "DraculaN Season 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 4869,
+        "name": "ENCE"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 206284,
+      "result": {
+        "team1": 9,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1756504800000,
+      "event": {
+        "id": 8635,
+        "name": "DraculaN Season 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 206234,
+      "result": {
+        "team1": 4,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1756504800000,
+      "event": {
+        "id": 8635,
+        "name": "DraculaN Season 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 11811,
+        "name": "Monte"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 206230,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1756418400000,
+      "event": {
+        "id": 8635,
+        "name": "DraculaN Season 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 206212,
+      "result": {
+        "team1": 13,
+        "team2": 8
+      }
+    },
+    {
+      "date": 1756418400000,
+      "event": {
+        "id": 8635,
+        "name": "DraculaN Season 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_nuke",
+      "mapStatsId": 206205,
+      "result": {
+        "team1": 13,
+        "team2": 1
+      }
+    },
+    {
+      "date": 1756418400000,
+      "event": {
+        "id": 8635,
+        "name": "DraculaN Season 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10278,
+        "name": "9INE"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 206201,
+      "result": {
+        "team1": 11,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1756245600000,
+      "event": {
+        "id": 8597,
+        "name": "ESL Challenger League Season 50 Europe Cup 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 206041,
+      "result": {
+        "team1": 10,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1756245600000,
+      "event": {
+        "id": 8597,
+        "name": "ESL Challenger League Season 50 Europe Cup 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 10503,
+        "name": "OG"
+      },
+      "map": "de_mirage",
+      "mapStatsId": 206031,
+      "result": {
+        "team1": 5,
+        "team2": 13
+      }
+    },
+    {
+      "date": 1756159200000,
+      "event": {
+        "id": 8597,
+        "name": "ESL Challenger League Season 50 Europe Cup 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_ancient",
+      "mapStatsId": 205958,
+      "result": {
+        "team1": 13,
+        "team2": 10
+      }
+    },
+    {
+      "date": 1756159200000,
+      "event": {
+        "id": 8597,
+        "name": "ESL Challenger League Season 50 Europe Cup 1"
+      },
+      "team1": {
+        "id": 13404,
+        "name": "Gentle Mates"
+      },
+      "team2": {
+        "id": 7969,
+        "name": "Nemiga"
+      },
+      "map": "de_inferno",
+      "mapStatsId": 205951,
+      "result": {
+        "team1": 13,
+        "team2": 4
+      }
+    }
+  ],
+  "currentLineup": [
+    {
+      "id": 8371,
+      "name": "alex"
+    },
+    {
+      "id": 9254,
+      "name": "mopoz"
+    },
+    {
+      "id": 18749,
+      "name": "sausol"
+    },
+    {
+      "id": 19509,
+      "name": "dav1g"
+    },
+    {
+      "id": 21239,
+      "name": "MartinezSa"
+    }
+  ],
+  "historicPlayers": [],
+  "standins": [],
+  "substitutes": [],
+  "events": [
+    {
+      "place": "-",
+      "event": {
+        "id": 8040,
+        "name": "ESL Pro League Season 22"
+      }
+    },
+    {
+      "place": "3-5th",
+      "event": {
+        "id": 8393,
+        "name": "ESL Pro League Season 22 Stage 1"
+      }
+    },
+    {
+      "place": "13-16th",
+      "event": {
+        "id": 8700,
+        "name": "Birch Cup 2025"
+      }
+    },
+    {
+      "place": "4th",
+      "event": {
+        "id": 8539,
+        "name": "StarLadder StarSeries Fall 2025"
+      }
+    },
+    {
+      "place": "2nd",
+      "event": {
+        "id": 8699,
+        "name": "Radio Popular Roman Imperium Cup II"
+      }
+    },
+    {
+      "place": "7-8th",
+      "event": {
+        "id": 8597,
+        "name": "ESL Challenger League Season 50 Europe Cup 1"
+      }
+    },
+    {
+      "place": "5-6th",
+      "event": {
+        "id": 8635,
+        "name": "DraculaN Season 1"
+      }
+    }
+  ],
+  "mapStats": {
+    "de_ancient": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 63.6,
+      "totalRounds": 245,
+      "roundWinPAfterFirstKill": 73.3,
+      "roundWinPAfterFirstDeath": 35.1
+    },
+    "de_mirage": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 8,
+      "winRate": 20,
+      "totalRounds": 201,
+      "roundWinPAfterFirstKill": 62.8,
+      "roundWinPAfterFirstDeath": 21.5
+    },
+    "de_nuke": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 4,
+      "winRate": 60,
+      "totalRounds": 193,
+      "roundWinPAfterFirstKill": 71.4,
+      "roundWinPAfterFirstDeath": 35.8
+    },
+    "de_inferno": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 3,
+      "winRate": 66.7,
+      "totalRounds": 173,
+      "roundWinPAfterFirstKill": 77.8,
+      "roundWinPAfterFirstDeath": 21.7
+    },
+    "de_train": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "winRate": 33.3,
+      "totalRounds": 71,
+      "roundWinPAfterFirstKill": 87.1,
+      "roundWinPAfterFirstDeath": 17.5
+    },
+    "de_overpass": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "winRate": 100,
+      "totalRounds": 22,
+      "roundWinPAfterFirstKill": 85.7,
+      "roundWinPAfterFirstDeath": 46.7
+    }
+  }
+}

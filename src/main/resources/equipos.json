@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Red Bull Racing",
+    "nationality": "Austria",
+    "drivers": [
+      {
+        "name": "Max Verstappen",
+        "number": 1,
+        "birthDate": "1997-09-30",
+        "nationality": "Netherlands"
+      },
+      {
+        "name": "Sergio Pérez",
+        "number": 11,
+        "birthDate": "1990-01-26",
+        "nationality": "Mexico"
+      }
+    ]
+  },
+  {
+    "name": "Mercedes-AMG Petronas",
+    "nationality": "Germany",
+    "drivers": [
+      {
+        "name": "Lewis Hamilton",
+        "number": 44,
+        "birthDate": "1985-01-07",
+        "nationality": "United Kingdom"
+      },
+      {
+        "name": "George Russell",
+        "number": 63,
+        "birthDate": "1998-02-15",
+        "nationality": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Ferrari",
+    "nationality": "Italy",
+    "drivers": [
+      {
+        "name": "Charles Leclerc",
+        "number": 16,
+        "birthDate": "1997-10-16",
+        "nationality": "Monaco"
+      },
+      {
+        "name": "Carlos Sainz",
+        "number": 55,
+        "birthDate": "1994-09-01",
+        "nationality": "Spain"
+      }
+    ]
+  },
+  {
+    "name": "McLaren",
+    "nationality": "United Kingdom",
+    "drivers": [
+      {
+        "name": "Lando Norris",
+        "number": 4,
+        "birthDate": "1999-11-13",
+        "nationality": "United Kingdom"
+      },
+      {
+        "name": "Oscar Piastri",
+        "number": 81,
+        "birthDate": "2001-04-06",
+        "nationality": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "Aston Martin",
+    "nationality": "United Kingdom",
+    "drivers": [
+      {
+        "name": "Fernando Alonso",
+        "number": 14,
+        "birthDate": "1981-07-29",
+        "nationality": "Spain"
+      },
+      {
+        "name": "Lance Stroll",
+        "number": 18,
+        "birthDate": "1998-10-29",
+        "nationality": "Canada"
+      }
+    ]
+  },
+  {
+    "name": "Alpine",
+    "nationality": "France",
+    "drivers": [
+      {
+        "name": "Pierre Gasly",
+        "number": 10,
+        "birthDate": "1996-02-07",
+        "nationality": "France"
+      },
+      {
+        "name": "Esteban Ocon",
+        "number": 31,
+        "birthDate": "1996-09-17",
+        "nationality": "France"
+      }
+    ]
+  },
+  {
+    "name": "Williams",
+    "nationality": "United Kingdom",
+    "drivers": [
+      {
+        "name": "Alexander Albon",
+        "number": 23,
+        "birthDate": "1996-03-23",
+        "nationality": "Thailand"
+      },
+      {
+        "name": "Logan Sargeant",
+        "number": 2,
+        "birthDate": "2000-12-31",
+        "nationality": "United States"
+      }
+    ]
+  },
+  {
+    "name": "Alfa Romeo",
+    "nationality": "Switzerland",
+    "drivers": [
+      {
+        "name": "Valtteri Bottas",
+        "number": 77,
+        "birthDate": "1989-08-28",
+        "nationality": "Finland"
+      },
+      {
+        "name": "Zhou Guanyu",
+        "number": 24,
+        "birthDate": "1999-05-30",
+        "nationality": "China"
+      }
+    ]
+  },
+  {
+    "name": "Haas",
+    "nationality": "United States",
+    "drivers": [
+      {
+        "name": "Kevin Magnussen",
+        "number": 20,
+        "birthDate": "1992-10-05",
+        "nationality": "Denmark"
+      },
+      {
+        "name": "Nico Hulkenberg",
+        "number": 27,
+        "birthDate": "1987-08-19",
+        "nationality": "Germany"
+      }
+    ]
+  },
+  {
+    "name": "AlphaTauri",
+    "nationality": "Italy",
+    "drivers": [
+      {
+        "name": "Yuki Tsunoda",
+        "number": 22,
+        "birthDate": "2000-05-11",
+        "nationality": "Japan"
+      },
+      {
+        "name": "Daniel Ricciardo",
+        "number": 3,
+        "birthDate": "1989-07-01",
+        "nationality": "Australia"
+      }
+    ]
+  }
+]
