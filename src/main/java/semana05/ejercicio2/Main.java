@@ -7,7 +7,9 @@ public class Main {
         EquipoCS2 equipo = Utilities.leerFichaEquipoCS2HLTV("Gentle Mates");
         if ( equipo  == null){
             //Fecha del contenido del json: 06/10/2025
-            equipo = Utilities.leerEquiposDesdeJSON("src/main/resources/GentleMates.json");
+            equipo = Utilities.leerEquiposDesdeJSON("src/main/resources/GentleMatesOutput.json");
+        } else {
+            Utilities.escribirEquipoJSON(equipo, "src/main/resources/GentleMatesOutput.json");
         }
         System.out.println(equipo);
     }

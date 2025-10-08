@@ -23,7 +23,6 @@ public class Utilities {
         try {
             ObjectMapper mapeador = new ObjectMapper();
 
-            // 👇 Registrar soporte para LocalDate
             mapeador.registerModule(new JavaTimeModule());
             mapeador.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS);
 

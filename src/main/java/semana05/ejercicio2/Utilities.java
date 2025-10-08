@@ -9,12 +9,16 @@ import semana05.ejemplos.LocalizacionRickAndMorty;
 import semana05.ejercicio.Videojuego;
 
 import java.io.File;
+import java.io.IOException;
+import java.io.Writer;
 import java.net.URI;
 import java.net.URLEncoder;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.util.List;
 
 
 public class Utilities {
@@ -51,7 +55,6 @@ public class Utilities {
         try {
             ObjectMapper mapeador = new ObjectMapper();
 
-            // 👇 Registrar soporte para LocalDate
             mapeador.registerModule(new JavaTimeModule());
             mapeador.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS);
 
@@ -68,7 +71,15 @@ public class Utilities {
     }
 
 
-
+    public static void escribirEquipoJSON(EquipoCS2 equipo, String ruta) {
+        ObjectMapper objectMapper = new ObjectMapper().registerModule(new JavaTimeModule());
+        objectMapper.enable(SerializationFeature.INDENT_OUTPUT);  // Formatear JSON
+        try (Writer writer = Files.newBufferedWriter(new File(ruta).toPath())) {
+            objectMapper.writeValue(writer, equipo);
+        } catch (IOException e) {
+            System.out.println("Error al escribir el archivo: " + e.getMessage());
+        }
+    }
 
 
 }
